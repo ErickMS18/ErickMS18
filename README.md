@@ -1,3 +1,3 @@
-## ErickMS18 👋
+## Erick Maestri 👋
 
-- Apredendo a aprender
+- Tecnologia é feita de pessoas, e eu quero fazer parte dessa rede
