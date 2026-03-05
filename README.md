@@ -8,7 +8,14 @@ Com todo respeito: Welcome to my profile!
 - 🎵 Fun fact: **Big fan of Djavan**
 
 <a href="https://github.com/ErickMS18">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMS18&layout=compact&langs_count=7&theme=dracula"/>
+  <img 
+    loading="lazy"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMS18&layout=compact&langs_count=7&theme=dracula"
+    alt="Most used languages"
+  />
+</a>
+
 
 
 ## About me
