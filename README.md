@@ -64,9 +64,11 @@ Grande fã de **Djavan** 🎶
 
 ## 📊 Estatísticas do GitHub
 
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickMS18&show_icons=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickMS18&show_icons=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMS18&layout=compact"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMS18&layout=compact)
 
 ---
 
