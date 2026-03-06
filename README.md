@@ -18,10 +18,10 @@ Aqui no GitHub você pode encontrar alguns desses projetos e experimentos desenv
 ## 🚀 Tecnologias e Ferramentas
 
 💻 **Linguagens de Programação**  
-Java ☕  
-Python 🐍  
-JavaScript ⚡  
-C 🔧  
+Java   
+Python   
+JavaScript  
+C 
 PHP  
 
 ---
@@ -39,7 +39,7 @@ SQLite
 
 ---
 
-🛠 **Ferramentas e Bibliotecas**  
+⚙️ **Ferramentas e Bibliotecas** 
 Git  
 Pandas  
 PyTorch  
