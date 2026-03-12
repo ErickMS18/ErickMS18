@@ -28,30 +28,29 @@ Aqui no GitHub você pode encontrar alguns desses projetos e experimentos desenv
 ---
 
 🌐 **Desenvolvimento Web**  
-HTML5  
-CSS3  
+- HTML5  
+- CSS3  
 
 ---
 
 🛠 **Backend & Banco de Dados**  
-Flask  
-MySQL  
-SQLite  
+- Flask  
+- MySQL  
+- SQLite  
 
 ---
 
 ⚙️ **Ferramentas e Bibliotecas** 
-Git  
-Pandas  
-PyTorch  
-Scikit-learn  
-AndroPyTool  
+- Git  
+- Pandas  
+- PyTorch  
+- Scikit-learn  
+- AndroPyTool  
 
 ---
 
 ## 📚 Atualmente Estudando
 
-- **COBOL**  
 - **Machine Learning**  
 - **Análise de dados com Python**  
 
