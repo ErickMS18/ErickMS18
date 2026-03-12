@@ -19,10 +19,10 @@ Aqui no GitHub você pode encontrar alguns desses projetos e experimentos desenv
 
 💻 **Linguagens de Programação**  
 Java   
-Python   
+Python
 JavaScript  
-C 
-PHP  
+C
+
 
 ---
 
