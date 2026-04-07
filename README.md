@@ -29,7 +29,8 @@ Aqui no GitHub você pode encontrar alguns desses projetos e experimentos desenv
 
 🌐 **Desenvolvimento Web**  
 - HTML5  
-- CSS3  
+- CSS3
+- React  
 
 ---
 
