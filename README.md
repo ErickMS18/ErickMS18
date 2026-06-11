@@ -1,116 +1,163 @@
-<h1 align="center">Olá! Eu sou Erick Maestri</h1>
+<h1 align="center">Olá! Eu sou Erick Maestri 👋</h1>
+
 <p align="center">
-Estudante de Ciência da Computação • Machine Learning • Desenvolvimento de Software
+  Estudante de Ciência da Computação • Desenvolvedor de Software • Machine Learning • Estagiário em Dados
+</p>
+
+<p align="center">
+  Transformando problemas reais em soluções através de software, dados e algoritmos.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+<table>
+<tr>
 
-Sou estudante de **Ciência da Computação**, interessado em compreender como **dados, algoritmos e sistemas** podem ser utilizados para resolver problemas reais.
+<td width="50%" valign="top">
 
-Ao longo da graduação, desenvolvi diversos **projetos acadêmicos e pessoais**, explorando estruturas de dados, algoritmos e resolução de problemas computacionais. Essas experiências fortaleceram minha base lógica e minha capacidade de estruturar soluções de forma organizada e eficiente.
+## 👨‍💻 Sobre Mim
 
-Aqui no GitHub você pode encontrar alguns desses projetos e experimentos desenvolvidos durante meus estudos.
+🎓 Graduando em Ciência da Computação
+
+💻 Interesse no que ta no subtitulo 
+
+📚 Estudando Machine Learning e Arquitetura de Software
+
+🛡️ Autor do projeto **DroidSentinel**
+
+📊 Experiência com estruturas de dados, bancos de dados e desenvolvimento web
+
+🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛠 Tecnologias & Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,vscode" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flask" />
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+<table>
+<tr>
 
-💻 **Linguagens de Programação**  
-- Java  
-- Python
-- JavaScript 
-- C
-- PHP
+<td width="50%" valign="top">
 
+## 📊 GitHub
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ErickMS18&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
-🌐 **Desenvolvimento Web**  
-- HTML5  
-- CSS3
-- React  
+</td>
 
----
-
-🛠 **Backend & Banco de Dados**  
-- Flask  
-- MySQL  
-- SQLite  
-
----
-
-⚙️ **Ferramentas e Bibliotecas** 
-- Git  
-- Pandas  
-- PyTorch  
-- Scikit-learn  
-- AndroPyTool  
-
----
+<td width="50%" valign="top">
 
 ## 📚 Atualmente Estudando
 
-- **Machine Learning**  
-- **Análise de dados com Python**  
+- Machine Learning
+- Node.js
+- Arquitetura de Software
+- Banco de Dados
+
+### 🎯 Objetivo
+
+Atuar como desenvolvedor de software construindo soluções escaláveis e utilizando dados e IA para resolver problemas reais.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🎵 Curiosidade
+## 🚀 Projetos em Destaque
 
-Grande fã de **Djavan** 🎶
+### 🛡️ DroidSentinel
+Sistema de detecção de malware Android utilizando Machine Learning para classificação de aplicativos maliciosos.
+
+**Tecnologias:** Python, Pandas, Scikit-Learn, Machine Learning
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 💼 Worsky
+Plataforma para conectar freelancers e empresas, focada em contratação, gerenciamento e produtividade.
+
+**Tecnologias:** Node.js, React, Banco de Dados Relacional
+
+---
+
+### 📚 Estruturas de Dados e Algoritmos
+Implementações acadêmicas de pilhas, filas, listas encadeadas, tabelas hash e algoritmos clássicos.
+
+**Tecnologias:** Java, C
+
+---
+
+## 📈 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickMS18&show_icons=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMS18&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMS18&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickMS18&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Conhecimentos
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-blue?style=for-the-badge)
+
+![Backend](https://img.shields.io/badge/Backend-Intermediate-green?style=for-the-badge)
+
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-💼 [LinkedIn](www.linkedin.com/in/erick-maestri-de-souza)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/erick-maestri-de-souza">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-
+<p align="center">
+💡 "A melhor forma de aprender tecnologia é construindo."
 </p>
