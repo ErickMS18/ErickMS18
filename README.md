@@ -1,14 +1,8 @@
 <h1 align="center">Olá! Eu sou Erick Maestri 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor de Software • Machine Learning • Estagiário em Dados
+  Estudante de Ciência da Computação • Desenvolvedor de Software • Pesquisador em Machine Learning 
 </p>
-
-<p align="center">
-  Transformando problemas reais em soluções através de software, dados e algoritmos.
-</p>
-
----
 
 <table>
 <tr>
@@ -17,27 +11,25 @@
 
 ## 👨‍💻 Sobre Mim
 
-🎓 Graduando em Ciência da Computação
+🎓 Graduando em Ciência da Computação (5/8) 
 
-💻 Interesse no que ta no subtitulo 
-
-📚 Estudando Machine Learning e Arquitetura de Software
+📚 Interesse Machine Learning e Arquitetura de Software
 
 🛡️ Autor do projeto **DroidSentinel**
 
-📊 Experiência com estruturas de dados, bancos de dados e desenvolvimento web
+📊 Experiência com estruturas de dados, bancos de dados e desenvolvimento full stack
 
 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ## 🛠 Tecnologias & Ferramentas
 
-<p align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,git,vscode" />
 
 <br><br>
 
@@ -45,18 +37,9 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,vscode" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=flask" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,flask" />
 
 </td>
-
-</tr>
-</table>
 
 ---
 
@@ -84,35 +67,12 @@
 
 ### 🎯 Objetivo
 
-Atuar como desenvolvedor de software construindo soluções escaláveis e utilizando dados e IA para resolver problemas reais.
+Atuar como desenvolvedor de software construindo soluções escaláveis e seguras resolver problemas reais.
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🛡️ DroidSentinel
-Sistema de detecção de malware Android utilizando Machine Learning para classificação de aplicativos maliciosos.
-
-**Tecnologias:** Python, Pandas, Scikit-Learn, Machine Learning
-
----
-
-### 💼 Worsky
-Plataforma para conectar freelancers e empresas, focada em contratação, gerenciamento e produtividade.
-
-**Tecnologias:** Node.js, React, Banco de Dados Relacional
-
----
-
-### 📚 Estruturas de Dados e Algoritmos
-Implementações acadêmicas de pilhas, filas, listas encadeadas, tabelas hash e algoritmos clássicos.
-
-**Tecnologias:** Java, C
 
 ---
 
@@ -128,23 +88,6 @@ Implementações acadêmicas de pilhas, filas, listas encadeadas, tabelas hash e
 
 ---
 
-## 🏆 Conhecimentos
-
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-blue?style=for-the-badge)
-
-![Backend](https://img.shields.io/badge/Backend-Intermediate-green?style=for-the-badge)
-
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge)
-
-![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=for-the-badge)
-
-</div>
-
----
 
 ## 📫 Contato
 
