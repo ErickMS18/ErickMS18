@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Erick Maestri 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor de Software • Pesquisador em Machine Learning 
+  Estudante de Ciência da Computação • Estagiário de Dados • Pesquisador em Machine Learning 
 </p>
 
 <table>
