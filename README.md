@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-🎓 Graduando em Ciência da Computação (5/8) 
+🎓 Graduando em Ciência da Computação (6/8) 
 
 📚 Interesse Machine Learning e Arquitetura de Software
 
@@ -46,30 +46,6 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
-
-## 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ErickMS18&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 Atualmente Estudando
-
-- Machine Learning
-- Node.js
-- Arquitetura de Software
-- Banco de Dados
-
-### 🎯 Objetivo
-
-Atuar como desenvolvedor de software construindo soluções escaláveis e seguras resolver problemas reais.
-
-</td>
 
 </tr>
 </table>
